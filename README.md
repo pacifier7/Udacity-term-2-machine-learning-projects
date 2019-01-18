@@ -1,12 +1,12 @@
 # Udacity-term-2-machine-learning-projects
 ### Table of contents
-  1. [Installations] (#Installations)
+  1. [Installations](#Installations)
   2. Project motivation.
   3. File Descriptions.
   4. Results
   5. Licensing and Acknowledgements
   
-  # Installations
+    Installations
   The necessary packages are:
     - Numpy
     - Pandas
