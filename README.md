@@ -6,7 +6,7 @@
   4. Results
   5. Licensing and Acknowledgements
   
-    Installations
+   # Installations
   The necessary packages are:
     - Numpy
     - Pandas
