@@ -1,7 +1,7 @@
 # Udacity-term-2-machine-learning-projects
 ### Table of contents
   1. [Installations](#Installations)
-  2. [Project motivation](#Project motivation)
+  2. [Project-motivation](#Project-motivation)
   3. [File Descriptions](#File Descriptions)
   4. [Results](#Results)
   5. [Licensing and Acknowledgements](#Licensing and Acknowledgements)
