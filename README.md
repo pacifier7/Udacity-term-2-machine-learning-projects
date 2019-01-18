@@ -2,9 +2,9 @@
 ### Table of contents
   1. [Installations](#Installations)
   2. [Project-motivation](#Project-motivation)
-  3. [File Descriptions](#File Descriptions)
+  3. [File-descriptions](#File-descriptions)
   4. [Results](#Results)
-  5. [Licensing and Acknowledgements](#Licensing and Acknowledgements)
+  5. [Licensing-and-acknowledgements](#Licensing-and-acknowledgements)
   
    # Installations
   The necessary packages are:
